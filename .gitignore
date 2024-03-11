@@ -5,3 +5,7 @@ output/
 *.user
 cmake-*
 .idea
+code/botlib/html
+code/botlib/latex
+code/botlib/xml
+Makefile
